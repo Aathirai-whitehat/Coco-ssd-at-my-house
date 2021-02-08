@@ -1,0 +1,27 @@
+body{
+    background-image: url("bg.png");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Gorditas', cursive;
+}
+.heading
+{
+font-size: 30px;
+width: 100%;        
+margin: 0px;
+background-image: linear-gradient(to right, #f445e5, #6c97ff, #00c4ff, #00ddff, #12ebc5);
+color: rgb(34, 12, 235);
+}
+
+.button{
+    font-size: 40px;
+    width: 50%;
+    background-color:powderblue;
+    color:hotpink
+}
+
+.back{
+    font-size: 20px;
+    color: mediumorchid;  
+}
+
